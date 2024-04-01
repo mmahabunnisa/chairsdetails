@@ -1,0 +1,7 @@
+rent for chairs
+
+arm chair_rent for 1 hour =100
+desk chair_rent for 1 hour=150
+folding chair_rent for 1 hour=50
+recliner chair_rent for 1 hour=200
+rocking chair_rent for 1 hour= 300
